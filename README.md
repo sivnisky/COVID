@@ -1,2 +1,2 @@
 # COVID
-Trabajo Práctico Visualización de la Información 2020
+Trabajo Práctico Proyecto I 2021
